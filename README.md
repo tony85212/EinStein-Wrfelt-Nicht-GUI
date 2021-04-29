@@ -15,7 +15,7 @@ A mini-game of EinStein-würfelt-nicht create by python tkinter.
   
 ## ScreenShot
 
-![Scree](https://github.com/tony85212/Chinese-Chess-Al/blob/main/screenshot.JPG)
+![Scree](https://github.com/tony85212/EinStein-Wrfelt-Nicht-GUI/blob/main/screenshot.JPG)
 
 
 
