@@ -4,6 +4,7 @@ GUI GAME of EinStein-würfelt-nicht
 ## Introduction
 
 A mini-game of EinStein-würfelt-nicht create by python tkinter.
+The rule of game : https://en.wikipedia.org/wiki/EinStein_w%C3%BCrfelt_nicht! 
 
 ## Prerequisites
 
