@@ -1,2 +1,2 @@
-# GUI-EinStein-w-rfelt-nicht
+# GUI-EinStein-wrfelt-nicht
 GUI GAME of EinStein-würfelt-nicht
